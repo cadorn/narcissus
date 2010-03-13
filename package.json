@@ -1,4 +1,5 @@
 {
+	"name": "narcissus",
     "author": "Brendan Eich <brendan@mozilla.org>",
     "description": "JavaScript implemented in JavaScript",
     "keywords": ["javascript", "interpreter", "parser"],
